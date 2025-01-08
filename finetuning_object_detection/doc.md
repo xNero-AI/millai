@@ -1,5 +1,7 @@
 ## Yolo vX
 
+``DOING``
+
 Aqui é possível de fazer um fine tuning simples usando Yolo.
 
 Links que pode ajudar: 
